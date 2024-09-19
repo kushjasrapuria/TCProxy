@@ -16,4 +16,4 @@ Modify function response_handler for any modifications in responses
 python3 ./tcproxy.py [localhost] [localport] [remotehost] [remoteport] [receive_first]
 
 # Example
-./tcproxy.py 127.0.0.1 9000 10.12.132.1 9000 True
+python3 ./tcproxy.py 127.0.0.1 9000 10.12.132.1 9000 True
